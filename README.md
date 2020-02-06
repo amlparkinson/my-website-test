@@ -1,3 +1,3 @@
-# my-website-test
+# My Awesome Website!
 
-testing a webpage with gh-pages for esm 244 lab
+Testing a webpage with gh-pages for ESM 244 Lab
